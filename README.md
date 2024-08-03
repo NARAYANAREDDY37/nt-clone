@@ -1,4 +1,4 @@
-# Netflix Clone (netflix-clone) / TV Version
+# NT Clone (nt-clone) / TV Version
 
 ### Learn how to build this!
 
