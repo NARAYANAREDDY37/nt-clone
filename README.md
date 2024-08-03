@@ -2,8 +2,7 @@
 
 ### Learn how to build this!
 
-![image](https://drive.google.com/file/d/1mFy0QwbzMdEcE1Cpmv7yHnvadO8AnPJ0/view)
-
+<img width="1680" alt="Screenshot 2024-08-03 at 5 55 06 AM" src="https://github.com/user-attachments/assets/9c13b575-0c6b-40cb-852e-df137a9c2994">
 
 
 ## App Setup
